@@ -19,7 +19,7 @@ scroll_right = False
 scroll = 0
 scroll_speed = 1
 
-ROWS = 16
+ROWS = 20
 COLUMNS = 150
 TILE_SIZE = screen_height // ROWS
 
